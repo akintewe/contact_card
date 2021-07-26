@@ -1,10 +1,9 @@
-# hardware_app
+# My_little_contact_app
 
 A new Flutter project.
 
-## Getting Started
+## JUST STARTING MY JOURNEY
 
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
